@@ -1,4 +1,4 @@
-- title: About
-  url: about
+- title: Discussion
+  external_url: https://github.com/rond-authz/rond/discussions
 - title: Documentation
   url: docs
